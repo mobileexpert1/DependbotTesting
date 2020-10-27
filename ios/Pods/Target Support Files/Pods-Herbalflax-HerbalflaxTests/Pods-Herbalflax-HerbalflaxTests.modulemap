@@ -1,0 +1,6 @@
+module Pods_Herbalflax_HerbalflaxTests {
+  umbrella header "Pods-Herbalflax-HerbalflaxTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

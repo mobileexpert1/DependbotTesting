@@ -1,0 +1,16 @@
+const CONSTANTS = {
+  APP_NAME: 'Herblflax',
+  SUCCESS: 'SUCCESS',
+  ERROR: 'ERRPR',
+  SPLASH_TIMEOUT: 3000,
+  INSTA_APP_ID: '1431303853729242',
+  INSTA_APP_SECERET: '309591975074fa6c47add6afdd8dabca',
+  INSTA_REDIRECT_URL: 'https://socialsizzle.heroku.com/auth/',
+  OBJ_USER_DETAIL: 'USER_DETAIL',
+  FACEBOOK: 1,
+  GMAIL: 2,
+  INSTAGRAM: 3,
+  LINKEDIN: 4,
+  ALERT_SIMPLE: 1,
+};
+export default CONSTANTS;

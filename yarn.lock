@@ -5848,14 +5848,14 @@ react-native-gesture-handler@^1.8.0:
     invariant "^2.2.4"
     prop-types "^15.7.2"
 
-react-native-instagram-login@^2.0.2:
-  version "2.0.2"
-  resolved "https://registry.npmjs.org/react-native-instagram-login/-/react-native-instagram-login-2.0.2.tgz#31e43f52347d7b603f3417dc8f301b3f393fad6e"
-  integrity sha512-/uQUGITdjB//ISmYu5uZRZ1d+yd7j1DC0MtTmrJahvs6HIJLyTLif8STJ2gWe5GogVvwwSBovtifmO86jBCrWg==
+react-native-instagram-login@^2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/react-native-instagram-login/-/react-native-instagram-login-2.0.3.tgz#ccdb265ff59011bbae1a884ff3036ce25f482272"
+  integrity sha512-GJxIre3+SPBvKRRltgH++0MZ3FbhVA9VNhHUkqeVLSfiJNGyrwc6xrsaAs46aoqnPMm0K8Wwi2sugmfPGsKRVQ==
   dependencies:
     axios "^0.19.2"
     qs "6.9.4"
-    react-native-webview "^10.2.3"
+    react-native-webview "^10.9.3"
 
 react-native-iphone-x-helper@^1.2.1:
   version "1.2.1"
@@ -5914,10 +5914,10 @@ react-native-webview@7.0.5:
     escape-string-regexp "1.0.5"
     invariant "2.2.4"
 
-react-native-webview@^10.2.3, react-native-webview@^10.9.0:
-  version "10.9.0"
-  resolved "https://registry.npmjs.org/react-native-webview/-/react-native-webview-10.9.0.tgz#a45998f82ab1bbbbfde22b8b155394772610157a"
-  integrity sha512-zYZfmdJca/xRbwvvOfPhzL59SQC4L0W9rPWVF4zMi7BMDdCVHXVp0wKZ9KzmqxZNwadZNTxl5s0pvd6p3S34Fg==
+react-native-webview@^10.9.0, react-native-webview@^10.9.3:
+  version "10.10.0"
+  resolved "https://registry.yarnpkg.com/react-native-webview/-/react-native-webview-10.10.0.tgz#285703c35eac1eac5b4446df2cba8a146d3c8548"
+  integrity sha512-T0AnZ0LVhaFBqZpl5attDDYo83zqdFRsFVINbrgHaIm6w5r0d/QK/dJRgXRNyFhn1fSONhe0ejdcnCYCT73B6g==
   dependencies:
     escape-string-regexp "2.0.0"
     invariant "2.2.4"

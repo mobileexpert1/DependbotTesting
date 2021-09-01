@@ -5896,10 +5896,10 @@ react-native-responsive-screen@^1.4.1:
   resolved "https://registry.npmjs.org/react-native-responsive-screen/-/react-native-responsive-screen-1.4.1.tgz#0270bc8f03a208b578299c1594495db69aff506b"
   integrity sha512-WuMkVyCPeepzKQaT3N+mbUAvQLL0jGsBnGf6yDtA7vyA/sp1imXYVPYjCNMRaKV+PSM5GzEMXxl4Bj+tUpD2Tw==
 
-react-native-safe-area-context@^3.1.7:
-  version "3.1.8"
-  resolved "https://registry.npmjs.org/react-native-safe-area-context/-/react-native-safe-area-context-3.1.8.tgz#7a9883aa0f38f9c77d4bef2b89e4e285bc1024a3"
-  integrity sha512-9gUlsDZ96QwT9AKzA6aVWM/NX5rlJgauZ9HgCDVzKbe29UQYT1740QJnnaI2GExmkFGp6o7ZLNhCXZW95eYVFA==
+react-native-safe-area-context@^3.3.1:
+  version "3.3.1"
+  resolved "https://registry.yarnpkg.com/react-native-safe-area-context/-/react-native-safe-area-context-3.3.1.tgz#70a8b366f35ad224b01967a65c86543b0f3fbbce"
+  integrity sha512-vVb6ahpo6WkMIzi7SzpYZdUgLADQQMBUmKnxwtAl3QpAjJ+YirCrF1uMZs8bPuLSMY7Z4V+s6zWdmQo/wNhfpQ==
 
 react-native-screens@^2.11.0:
   version "2.11.0"

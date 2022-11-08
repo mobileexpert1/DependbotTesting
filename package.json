@@ -17,7 +17,7 @@
     "@react-navigation/stack": "^5.9.0",
     "lodash.remove": "^4.7.0",
     "react": "16.13.1",
-    "react-native": "0.63.2",
+    "react-native": "0.63.5",
     "react-native-country-picker-modal": "^2.0.0",
     "react-native-datepicker": "^1.7.2",
     "react-native-gesture-handler": "^1.8.0",
